@@ -1,3 +1,4 @@
+
 Direktiv för uppgift
 
 Du har i uppgift att bygga en bankautomat, men du har inte tillgång till banken. Du får helt enkelt
